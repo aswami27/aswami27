@@ -1,39 +1,31 @@
 <h1 align="center">Hi 👋, I'm Anirudh Swami</h1>
 <h3 align="center">A passionate Data Professional</h3>
 
-
-Here’s a professional GitHub bio tailored to your resume:
-
-👋 Hi, I'm Anirudh Swami
-🌍 Location: Manchester, United Kingdom | Willing to Relocate
 📧 Contact: anirudh_swami@outlook.com
-🔗 Links: Portfolio | LinkedIn
 
 💼 About Me
 Microsoft Azure-certified Data Professional with a strong foundation in data analytics, machine learning, and cloud technologies. With experience across industries like Retail, Finance, FMCG, and Healthcare, I specialize in developing data-driven solutions to solve complex business challenges.
 
 Highlights include:
-
 Proficiency in Python, SQL, R, and statistical modelling.
 Expertise in Databricks, Azure Data Factory, and Power BI for scalable data solutions and insightful visualizations.
 Hands-on experience with Big Data Technologies like Apache Hadoop and Spark.
 Recognized for driving a 15% boost in operational efficiency through data-driven decision-making.
-Currently pursuing advanced certifications in Azure Cloud Data Platforms and continuously improving my skills in cutting-edge technologies.
+Currently pursuing advanced certifications in Azure Cloud Data Platforms and improving my skills in cutting-edge technologies.
 
 🛠️ Technical Skills
-
 Programming Languages: Python, R, SQL, Shell Scripting
 Big Data & Cloud: Apache (Hadoop, Spark), Azure Data Factory, Databricks
 Visualization Tools: Power BI, Tableau, Jupyter Notebooks, Matplotlib
 Database Management: Relational Databases, NoSQL, Database Migrations
 Specialties: Machine Learning, ETL Pipelines, Statistical Analysis, Data Visualization
-🏆 Achievements
 
+🏆 Achievements
 Q4 Superstar Award for spearheading data-driven solutions that enhanced client sales performance and resource optimization.
 Developed a Cost-of-Living Predictive Model that provided actionable insights for 500,000+ users.
 Automated data workflows, reducing processing times by 30%.
-📈 Current Focus
 
+📈 Current Focus
 Deepening expertise in Azure Cloud Technologies and Machine Learning.
 Building innovative, scalable data solutions that deliver measurable business outcomes.
 
