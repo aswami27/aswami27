@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anirudh Swami</h1>
 <h3 align="center">A passionate Data Professional</h3>
 
-📧 Contact: anirudh_swami@outlook.com
-
 💼 About Me
 Microsoft Azure-certified Data Professional with a strong foundation in data analytics, machine learning, and cloud technologies. With experience across industries like Retail, Finance, FMCG, and Healthcare, I specialize in developing data-driven solutions to solve complex business challenges.
 
@@ -29,15 +27,10 @@ Automated data workflows, reducing processing times by 30%.
 Deepening expertise in Azure Cloud Technologies and Machine Learning.
 Building innovative, scalable data solutions that deliver measurable business outcomes.
 
-
 - 🔭 I’m currently working on **Generative AI**
-
 - 🌱 I’m currently learning **Cloud Technologies(Azure Data Engineer Associate)**
-
 - 👨‍💻 All of my projects are available at [https://aswami27.github.io/](https://aswami27.github.io/)
-
 - 💬 Ask me about **AI|ML|LLM|NLP**
-
 - 📫 How to reach me **anirudh_swami@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
