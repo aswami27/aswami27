@@ -2,36 +2,32 @@
 <h3 align="center">A passionate Data Professional</h3>
 
 💼 About Me:
+Azure-certified data professional with expertise in data analytics, machine learning, and cloud technologies. Experienced across Retail, Finance, FMCG, and Healthcare, specializing in developing scalable, data-driven solutions that address complex business challenges and drive measurable results.
 
-Microsoft Azure-certified Data Professional with a strong foundation in data analytics, machine learning, and cloud technologies. With experience across industries like Retail, Finance, FMCG, and Healthcare, I specialize in developing data-driven solutions to solve complex business challenges.
+Key Highlights:
+Proficient in Python, R, SQL, and statistical modelling for advanced analytics.
+Expertise in Databricks, Azure Data Factory, and Power BI for cloud-based data integration and visualization.
+Hands-on experience with Big Data Technologies including Apache Hadoop and Spark for distributed data processing.
+Delivered a 15% boost in operational efficiency by implementing optimized, data-centric strategies.
 
-Highlights include:
-Proficiency in Python, SQL, R, and statistical modelling.
-Expertise in Databricks, Azure Data Factory, and Power BI for scalable data solutions and insightful visualizations.
-Hands-on experience with Big Data Technologies like Apache Hadoop and Spark.
-Recognized for driving a 15% boost in operational efficiency through data-driven decision-making.
-Currently pursuing advanced certifications in Azure Cloud Data Platforms and improving my skills in cutting-edge technologies.
+🛠️ Technical Skills:
+Programming: Python, R, SQL, Shell Scripting
+Cloud & Big Data: Azure Data Factory, Databricks, Apache Hadoop, Spark
+Visualisation: Power BI, Tableau, Matplotlib, Jupyter Notebooks
+Specialties: Machine Learning, Statistical Analysis, ETL Pipelines, Data Engineering
 
-🛠️ Technical Skills
-Programming Languages: Python, R, SQL, Shell Scripting
-Big Data & Cloud: Apache (Hadoop, Spark), Azure Data Factory, Databricks
-Visualization Tools: Power BI, Tableau, Jupyter Notebooks, Matplotlib
-Database Management: Relational Databases, NoSQL, Database Migrations
-Specialties: Machine Learning, ETL Pipelines, Statistical Analysis, Data Visualization
+🏆 Achievements:
+Awarded Q4 Superstar for enhancing client sales performance with data-driven solutions.
+Designed a Cost-of-Living Predictive Model providing insights for 500,000+ users.
+Automated data workflows with Azure tools, reducing processing time by 30%.
 
-🏆 Achievements
-Q4 Superstar Award for spearheading data-driven solutions that enhanced client sales performance and resource optimization.
-Developed a Cost-of-Living Predictive Model that provided actionable insights for 500,000+ users.
-Automated data workflows, reducing processing times by 30%.
+📈 Current Focus:
+Exploring Generative AI and Azure Data Engineering, with an emphasis on scalable cloud solutions and machine learning innovations.
 
-📈 Current Focus
-Deepening expertise in Azure Cloud Technologies and Machine Learning.
-Building innovative, scalable data solutions that deliver measurable business outcomes.
-
-- 🔭 I’m currently working on **Generative AI**
-- 🌱 I’m currently learning **Cloud Technologies(Azure Data Engineer Associate)**
+- 🔭 I’m currently working on **Generative AI & Large Language Models**
+- 🌱 I’m currently learning **Azure Data Engineer Associate certification**
 - 👨‍💻 All of my projects are available at [https://aswami27.github.io/](https://aswami27.github.io/)
-- 💬 Ask me about **AI|ML|LLM|NLP**
+- 💬 Ask me about **AI|ML|LLM|NLPD|ata Engineering**
 - 📫 How to reach me **anirudh_swami@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
