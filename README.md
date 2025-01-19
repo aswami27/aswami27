@@ -2,26 +2,31 @@
 <h3 align="center">A passionate Data Professional</h3>
 
 💼 About Me:
+
 Azure-certified data professional with expertise in data analytics, machine learning, and cloud technologies. Experienced across Retail, Finance, FMCG, and Healthcare, specializing in developing scalable, data-driven solutions that address complex business challenges and drive measurable results.
 
-Key Highlights:
+💻 Key Highlights:
+
 Proficient in Python, R, SQL, and statistical modelling for advanced analytics.
 Expertise in Databricks, Azure Data Factory, and Power BI for cloud-based data integration and visualization.
 Hands-on experience with Big Data Technologies including Apache Hadoop and Spark for distributed data processing.
 Delivered a 15% boost in operational efficiency by implementing optimized, data-centric strategies.
 
 🛠️ Technical Skills:
+
 Programming: Python, R, SQL, Shell Scripting
 Cloud & Big Data: Azure Data Factory, Databricks, Apache Hadoop, Spark
 Visualisation: Power BI, Tableau, Matplotlib, Jupyter Notebooks
 Specialties: Machine Learning, Statistical Analysis, ETL Pipelines, Data Engineering
 
 🏆 Achievements:
+
 Awarded Q4 Superstar for enhancing client sales performance with data-driven solutions.
 Designed a Cost-of-Living Predictive Model providing insights for 500,000+ users.
 Automated data workflows with Azure tools, reducing processing time by 30%.
 
 📈 Current Focus:
+
 Exploring Generative AI and Azure Data Engineering, with an emphasis on scalable cloud solutions and machine learning innovations.
 
 - 🔭 I’m currently working on **Generative AI & Large Language Models**
