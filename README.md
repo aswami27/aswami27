@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anirudh Swami</h1>
 <h3 align="center">A passionate Data Professional</h3>
 
-💼 About Me
+💼 About Me:
+
 Microsoft Azure-certified Data Professional with a strong foundation in data analytics, machine learning, and cloud technologies. With experience across industries like Retail, Finance, FMCG, and Healthcare, I specialize in developing data-driven solutions to solve complex business challenges.
 
 Highlights include:
